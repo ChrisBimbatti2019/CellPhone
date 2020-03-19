@@ -1,2 +1,1 @@
-# CellPhone
-Simula um celular
+Neste código utilizo estruturas de condição e repetição, para obter um simulador simples, de como funciona o sistema de requisição de crédito, para fazer uma ligação e enviar sms dentro de um telefone celular.
